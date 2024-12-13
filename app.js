@@ -15,3 +15,7 @@ const addCourse = (course) => {
 };
 
 const test = () => false;
+
+const error = () => {
+  false;
+};
