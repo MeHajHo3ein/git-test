@@ -1,1 +1,3 @@
 // text
+
+const user = () => true;
